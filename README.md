@@ -1,10 +1,8 @@
-# Desafio de Pós-Graduação – Financy
+# Post-Graduate Project – Financy
 
 **Financy** is a full-stack application for personal finance management, developed with a focus on a modern and scalable architecture using GraphQL.
 
-## 💻 Tecnologias
-
-Este repositório contém:
+## 💻 Tecnologies
 
 - **Backend**
   - TypeScript
@@ -33,7 +31,7 @@ Este repositório contém:
    git clone <url-do-repositorio>
    ```
 
-2. **Configure as variáveis de ambiente**
+2. **Configure env vars**
    Create `.env` file based on `.env.example`.
 
 3. **Install dependencies**
@@ -50,7 +48,6 @@ Este repositório contém:
    ```
 
 5. **Optional: Execute seed**
-   Popula o banco com dados de exemplo.
 
    ```bash
    bun seed
@@ -64,7 +61,6 @@ Este repositório contém:
    ```
 
 7. **Execute**
-   Você precisará de dois terminais:
 
    **Backend:**
 
